@@ -14,7 +14,7 @@ git clone https://github.com/K0D3IN/MUTI.git
 cd MUTI
 python3 main.py
 ```
-#### If you want to install browsers:
+#### IF YOU WANT TO INSTALL BROWSERS:
 ---
 ```
 python3 browsers.py
