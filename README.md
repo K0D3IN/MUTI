@@ -8,7 +8,16 @@ Fast and good pack for new starters inculudes ZAP-PROXY and Another git repostor
 
 ### HOW TO INSTALL IT
 ---
-
-` 
+```
 sudo apt-get install git
-`
+git clone https://github.com/K0D3IN/MUTI.git
+cd MUTI
+python3 main.py
+```
+#### If you want to install browsers:
+---
+```
+python3 browsers.py
+```
+
+Thanks for using it
