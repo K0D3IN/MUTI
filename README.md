@@ -1,5 +1,4 @@
 # MUTI
-MOST-USED-TOOLS-INSTALLER
 **MUTI** is a installer for debian based linux operating systems which is you can install browsers and **Most Used Tools** 
 
 ### FEATURES
