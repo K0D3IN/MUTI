@@ -47,7 +47,7 @@ def all():
 
 
             else:
-                print("siktimin kodunda hata yaptın amk asalağı")
+                print("hatalı kod")
 
 def main():
     os.system("clear")
